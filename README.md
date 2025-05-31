@@ -1,7 +1,7 @@
 # Numerical Methods – Lab Projects  
 **National Taras Shevchenko University of Kyiv**
 
-This repository contains 4 laboratory works completed as part of the **Numerical Methods** course. Each lab focuses on a different numerical technique and is implemented in Python.
+This repository contains 5 laboratory works completed as part of the **Numerical Methods** course. Each lab focuses on a different numerical technique and is implemented in Python.
 
 ## Overview of Labs
 
@@ -21,3 +21,10 @@ This repository contains 4 laboratory works completed as part of the **Numerical
   - **Lagrange interpolation polynomial**
   - **Newton's interpolation polynomial**
 - Visualizes the interpolation results on a graph for better comparison.
+
+### Lab 5
+- Approximates the integral  
+  \[
+  \int_{1}^{5} \frac{1}{2 + x} \, dx
+  \]  
+  using **Simpson’s rule** with accuracy up to **0.005**, based on error estimation.
